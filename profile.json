@@ -1,0 +1,143 @@
+{
+  "name": "Arush Sinhal",
+  "total_experience_years": 8,
+  "education": {
+    "mba": "London Business School (Finance & Private Capital, GMAT 760)",
+    "msc": "University of Manchester (Advanced Engineering Materials, Distinction, rank 2/70)",
+    "btech": "IIT Kanpur (Materials Science & Engineering)"
+  },
+  "work_experience": [
+    {
+      "role": "Co-Founder and Head of Buyer Experience",
+      "company": "Qala Global",
+      "type": "B2B sourcing platform for luxury fashion",
+      "duration": "Sep 2024 - Jan 2026",
+      "years": 1.3,
+      "skills": [
+        "buyer acquisition",
+        "B2B sales",
+        "fundraising ($150K pre-seed)",
+        "financial modeling",
+        "product design",
+        "platform prototyping",
+        "cross-functional team leadership (10 people)",
+        "sales onboarding",
+        "CRM systems",
+        "process building"
+      ],
+      "domains": ["fashion", "luxury", "B2B marketplace", "startup", "e-commerce"]
+    },
+    {
+      "role": "Business Development and Strategy Lead",
+      "company": "Iona Drones",
+      "type": "Last mile drone deliveries startup",
+      "duration": "Sep 2023 - Sep 2024",
+      "years": 1,
+      "skills": [
+        "GTM strategy",
+        "business development",
+        "pipeline generation (£10M ARR)",
+        "grant writing (£300K UKRI)",
+        "partnership management",
+        "regulatory engagement",
+        "delivery trials"
+      ],
+      "domains": ["logistics", "drones", "deeptech", "startup", "last-mile delivery"]
+    },
+    {
+      "role": "MBA Summer Associate",
+      "company": "Bain & Company",
+      "type": "Management consulting (MBB)",
+      "duration": "May 2023 - Aug 2023",
+      "years": 0.3,
+      "skills": [
+        "Gen AI strategy",
+        "client delivery",
+        "custom chatbot development",
+        "partnership development (OpenAI)",
+        "executive training",
+        "business development ($10M revenue)"
+      ],
+      "domains": ["consulting", "banking", "consumer", "retail", "AI/GenAI"]
+    },
+    {
+      "role": "Product Marketing Manager",
+      "company": "Meet.mba Ltd",
+      "type": "SaaS communication platform (20k+ users)",
+      "duration": "May 2022 - Apr 2023",
+      "years": 1,
+      "skills": [
+        "product ownership",
+        "feature prioritization",
+        "user feedback management",
+        "developer liaison",
+        "email campaigns",
+        "user onboarding",
+        "data analytics reporting",
+        "growth marketing"
+      ],
+      "domains": ["SaaS", "edtech", "product management", "B2B"]
+    },
+    {
+      "role": "Management Consultant",
+      "company": "BAE Systems",
+      "type": "Defence & security consulting division",
+      "duration": "Mar 2020 - Aug 2022",
+      "years": 2.5,
+      "skills": [
+        "scenario planning",
+        "financial modeling (£180B portfolio)",
+        "investment strategy",
+        "market analysis",
+        "AML compliance",
+        "B2B solution development",
+        "data analytics & visualization",
+        "client engagement"
+      ],
+      "domains": ["defence", "consulting", "financial services", "compliance", "data analytics"]
+    },
+    {
+      "role": "Senior Associate, Strategy team",
+      "company": "BAE Systems",
+      "type": "Defence & security strategy",
+      "duration": "Sep 2017 - Mar 2020",
+      "years": 2.5,
+      "skills": [
+        "competitive pricing",
+        "business winning (£150M bid)",
+        "operational efficiency",
+        "cost optimization",
+        "go-to-market strategy",
+        "cross-domain engagement",
+        "strategic analysis"
+      ],
+      "domains": ["defence", "strategy", "maritime", "aerospace", "manufacturing"]
+    }
+  ],
+  "target_roles": [
+    "Strategy & Business Development (startups, scaleups)",
+    "Product Strategy / Product Management",
+    "Management Consulting",
+    "Corporate Strategy (tech companies)",
+    "AI/GenAI Strategy",
+    "Commercial roles in fashion/retail tech"
+  ],
+  "target_seniority": ["Associate", "Senior Associate", "Manager", "Lead", "Principal", "Consultant", "Senior Consultant"],
+  "target_locations": ["London", "UK", "Remote", "Dubai", "Singapore"],
+  "core_skills": [
+    "strategy",
+    "business development",
+    "go-to-market",
+    "product management",
+    "financial modeling",
+    "data analytics",
+    "B2B sales",
+    "consulting",
+    "cross-functional leadership",
+    "fundraising",
+    "market analysis",
+    "Gen AI / LLM applications"
+  ],
+  "tools": ["SQL", "Python", "BigQuery", "Tableau", "PowerBI", "Alteryx", "Excel", "Figma"],
+  "authorization": "UK work authorization, immediate start"
+}

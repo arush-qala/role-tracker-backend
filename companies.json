@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Unilever",
+    "careers_url": "https://careers.unilever.com/",
+    "active": true
+  },
+  {
+    "name": "Sky",
+    "careers_url": "https://careers.sky.com/",
+    "active": true
+  },
+  {
+    "name": "Google",
+    "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+    "active": true
+  },
+  {
+    "name": "BAE Systems",
+    "careers_url": "https://www.baesystems.com/en/careers",
+    "active": true
+  },
+  {
+    "name": "Anthropic",
+    "careers_url": "https://www.anthropic.com/careers",
+    "active": true
+  }
+]

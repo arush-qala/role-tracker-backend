@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+roles.db
+*.db-journal
+*.db-wal
