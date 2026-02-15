@@ -35,6 +35,18 @@ class RoleStatusUpdate(BaseModel):
     status: str  # "applied" or "dismissed"
 
 
+# --- Health Check (required for Render deploy) ---
+
+@app.get("/")
+def root():
+    return {"status": "ok", "service": "role-tracker-api"}
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+
 # --- Dashboard ---
 
 @app.get("/api/stats")
